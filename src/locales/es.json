@@ -1,0 +1,15 @@
+{
+    "dettagliFilm": {
+      "tagline": "Lema",
+      "overview": "Descripción general",
+      "genres": "Géneros",
+      "releasedata": "Fecha de lanzamiento",
+      "status": "Estado",
+      "runtime": "Duración",
+      "originCountry": "País de origen",
+      "originalLanguage": "Idioma original",
+      "popularity": "Popularidad",
+      "voteAverage": "Calificación promedio"
+    }
+  }
+  

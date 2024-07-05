@@ -1,0 +1,14 @@
+{
+    "dettagliFilm": {
+      "tagline": "Slogan",
+      "overview": "Descrizione generale",
+      "genres": "Generi",
+      "releasedata": "Data di rilascio",
+      "status": "Stato",
+      "runtime": "Durata",
+      "originCountry": "Paese d'origine",
+      "originalLanguage": "Lingua originale",
+      "popularity": "Popolarità",
+      "voteAverage": "Voto medio"
+    }
+  }

@@ -1,0 +1,28 @@
+{
+  "name": "rexflix",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@chenfengyuan/vue-carousel": "^2.0.0",
+    "@syncfusion/ej2-vue-inputs": "^26.1.40",
+    "pagination": "^0.4.6",
+    "swiper": "^11.1.4",
+    "vue": "^3.4.29",
+    "vue-3d-carousel": "^1.0.5",
+    "vue-carousel-3d": "^1.0.1",
+    "vue-router": "^4.4.0",
+    "vue-star-rating": "^1.7.0",
+    "vuetify": "^3.6.10",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "vite": "^5.3.1"
+  }
+}

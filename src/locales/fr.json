@@ -1,0 +1,14 @@
+{
+    "dettagliFilm": {
+      "tagline": "Slogan",
+      "overview": "Vue d'ensemble",
+      "genres": "Genres",
+      "releasedata": "Date de sortie",
+      "status": "Statut",
+      "runtime": "Durée",
+      "originCountry": "Pays d'origine",
+      "originalLanguage": "Langue originale",
+      "popularity": "Popularité",
+      "voteAverage": "Note moyenne"
+    }
+  }

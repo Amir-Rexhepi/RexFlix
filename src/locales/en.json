@@ -1,0 +1,14 @@
+{
+    "dettagliFilm": {
+        "tagline": "Tagline",
+        "overview": "Overview",
+        "genres": "Genres",
+        "releasedata:": "Release Data",
+        "status": "Status",
+        "runtime": "Runtime",
+        "originCountry": "Origin Country",
+        "originalLanguage": "Origin Language",
+        "popularity": "Popularity",
+        "voteAverage": "Vote Average"
+    }
+}
